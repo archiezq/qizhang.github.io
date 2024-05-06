@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qi Zhang"
+title                    : "Qi Zhang(张琦)"
 title_separator          : "-"
-name                     : &name "Qi Zhang"
+name                     : &name "Qi Zhang(张琦)"
 description              : &description "personal description"
 url                      : https://archiezq.github.io/qizhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

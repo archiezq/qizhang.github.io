@@ -9,11 +9,7 @@ redirect_from:
 I am currently a first-year graduate student in [Computational Science](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html), [University of Amsterdam](https://www.uva.nl/). 
 <!-- I completed my undergraduate degree in Energy and Power Engineering (Energy Storage Track), at [North China Electric Power University](https://www.ncepu.edu.cn/). -->
 
-My research interests include:
-* Computational Energy, 
-* Sustainable Energy, 锂离子电池
-* Energy Storage Techniques. 
-* Computational Finance
+My research interests include: Computational Energy, Sustainable Energy, Energy Storage Techniques, Computational Finance.
 
 
 **Education**
@@ -24,7 +20,7 @@ My research interests include:
 
 You can find my CV here: [Qi's Curriculum Vitae](../assets/Qi_CV.pdf).
 
-[Email](mailto:qizhangedu@gmail.com) / [Github](https://github.com/archiezq) / [Wechat](../images/wechat.png) /
+[Email](mailto:qizhangedu@gmail.com) / [Github](https://github.com/archiezq) / [Wechat](../images/wechat.jpg) /
 
 ---
 **关于我**
@@ -40,4 +36,4 @@ You can find my CV here: [Qi's Curriculum Vitae](../assets/Qi_CV.pdf).
 
 个人简历: [Qi's Curriculum Vitae](../assets/Qi_CV.pdf).
 
-
+[邮箱](mailto:qizhangedu@gmail.com) / [Github](https://github.com/archiezq) / [微信](../images/wechat.jpg) /
