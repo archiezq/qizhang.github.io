@@ -21,6 +21,7 @@ My research interests include: Computational Energy, Sustainable Energy, Energy 
 You can find my CV here: [Qi's Curriculum Vitae](assets/Qi_CV.pdf).
 
 [Email](mailto:qizhangedu@gmail.com) / [Github](https://github.com/archiezq) / [Wechat](images/wechat.jpg) /
+
 ---
 **关于我**
 
