@@ -18,10 +18,9 @@ My research interests include: Computational Energy, Sustainable Energy, Energy 
 
 2019.09 - 2023.06: BSc in Energy and Power Engineering (Energy Storage Track), at North China Electric Power University.
 
-You can find my CV here: [Qi's Curriculum Vitae](../assets/Qi_CV.pdf).
+You can find my CV here: [Qi's Curriculum Vitae](assets/Qi_CV.pdf).
 
 [Email](mailto:qizhangedu@gmail.com) / [Github](https://github.com/archiezq) / [Wechat](images/wechat.jpg) /
-
 ---
 **关于我**
 
@@ -36,4 +35,4 @@ You can find my CV here: [Qi's Curriculum Vitae](../assets/Qi_CV.pdf).
 
 个人简历: [Qi's Curriculum Vitae](../assets/Qi_CV.pdf).
 
-[邮箱](mailto:qizhangedu@gmail.com) / [Github](https://github.com/archiezq) / [微信](../images/wechat.jpg) /
+[邮箱](mailto:qizhangedu@gmail.com) / [Github](https://github.com/archiezq) / [微信](images/wechat.jpg) /
