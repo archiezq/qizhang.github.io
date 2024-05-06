@@ -16,7 +16,7 @@ main:
   - title: "Research"
     url: /cv/
 
-  - title: "Misc"
-  url: /portfolio/
+  # - title: "Misc"
+  # url: /portfolio/
   # - title: "Guide"
   #   url: /markdown/
