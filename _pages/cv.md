@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+学习经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **阿姆斯特丹大学**，计算科学 (Computational Science)，硕士, 2023.09 - 2025.06(预计)
+  * GPA: 7.5
+  * **专业课程**: 数值算法、复杂系统仿真、随机模拟、数据挖掘技术、实验设计和数据分析，学术技能计算科学，计算科学导论，计算金融，量化金融风险管理等。
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **华北电力大学**，能源与动力工程 (储能)，本科, 2019.09 - 2023.06
+  * **GPA**:3.4   **排名**:10/52
+  * **专业课程**: 工程热力学，流体力学，传热学，储能电池技术，储能与综合能源系统，氢能技术及应用，储热技术及应用，材料科学与工程技术，物理化学，新能源发电，电化学工程等。
+  * **获奖情况**:
+    * 国家一等奖，中国工程机器人大赛暨国际公开赛 2022
+    * 校级三等奖学金 (连续三年)，院系级三好学生，校级优秀团员, 华北电力大学 2022,2021,2020
+    * S 奖，2021 数学建模美赛 2021
+    * 团体二等奖、个人二等奖，第六届北京市大学生工程设计表达竞赛 2021
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+课程项目
+======
+* **计算科学课程研究内容**，阿姆斯特丹大学 2023.12-2024.03
+    使用蒙特卡洛方法，以及方差减小技术 (对偶变量法、限制变量法、分层采样) 解决排队论 DES 模拟
+    和旅行推销员问题，研究了马可夫链的收敛速度。此外，还使用维纳过程、伊藤引理对偏微分方程进
+    行处理，并通过有限差分法将偏微分方程离散化以实现离散事件问题的建模和分析，如求解金融市
+    场中期权定价问题。研究了非线性动力学中的混沌、相变、网络连通性和复杂性，并通过元胞自动机
+    研究复杂系统中的幂律分布，如地震发生时能量分布是否符合幂律分布。
+    * 使用 ANOVA 和 ANCOVA 方法设计分析数据，使用线性回归模型分析数据。研究了对实验数据进行
+    诊断、清理的方法，通过机器学习方法如随机森林、循环神经网络实现对数据的挖掘处理。
+* **锂离子电池浸没相变复合热开关的仿真研究 (毕业论文)**，华北电力大学 2022.12-2023.06
+    * 基于相变材料热管理技术提出了一种浸没相变复合热开关温控模型。在电池工作时，浸没材料始终
+    以显热形式吸收热量，相变材料首先以显热吸热，当温度达到相变材料的熔点后，由固态融化为液态
+    以潜热形式吸热，同时体积膨胀驱动热开关闭合，实现了导热系数的调节；
+    * 热开关中相变材料采用了硬脂酸，浸没材料采用了变压器油，浸没材料于电池外壳之间为空气，
+    Comsol 数值仿真结果显示，在 4C、25°C 的工况放电倍率下，软包锂离子电池的平均温度为 46.4◦C，
+    使用浸没相变复合热开关后平均温度为 34.6◦C，表明该热管理技术有较好的温控性能。
+* **关于综合能源系统的研究与展望**，华北电力大学 2022.09-2022.12
+    * 研究火电、风电以及热电联产耦合并引入电加热储热装置的综合能源系统的耦合方式及原理。通过
+    火电、风电、热电联产的出力上下限，以及电负荷、热负荷、环境温度、漏热系数分析储热装置对风
+    电消纳的作用。使用 Matlab 通过“以热定电”的模型运行建模，结果显示储热装置的介入，可以有
+    效的消纳风电资源，更大程度上对风电进行消纳。
+    * 研究了可再生能源与电解水制氢耦合系统对可再生能源的消纳和绿氢制备情况。同时，计算了分别
+    计算不同数量电解池小室（8 个，10 个，12 个）串联的电解槽（25°C 运行）与光伏阵列直接耦合时，
+    不同光谱辐照度下电解槽对光伏阵列最大功率。此外，对 PEM 电解水制氢系统进行 Simulink 仿真，
+    得到不同阴极压力和不同运行温度的极化曲线输出。
+  
+技能
+======
+* **编程**: Python, C, MATLAB, R
+* **其他软件**: SolidWorks, AutoCad, Comsol, Tableau, Visio, LaTex
+* **英语水平**: 六级 566，雅思 6.5
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
