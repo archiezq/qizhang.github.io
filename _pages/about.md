@@ -34,6 +34,6 @@ You can find my CV here: [Qi's Curriculum Vitae](assets/Qi_CV.pdf).
 2019.09 - 2023.06: 能源与动力工程(储能方向)，华北电力大学，本科
 
 
-个人简历: [Qi's Curriculum Vitae](../assets/Qi_CV.pdf).
+个人简历: [Qi's Curriculum Vitae](assets/Qi_CV.pdf).
 
 [邮箱](mailto:qizhangedu@gmail.com) / [Github](https://github.com/archiezq) / [微信](images/wechat.jpg) /
