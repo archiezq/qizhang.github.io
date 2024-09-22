@@ -12,7 +12,7 @@ I am currently a second-year graduate student in [Computational Science](https:/
 My research interests include: Computational Energy, 
 Sustainable Energy Systems, 
 Energy Storage Techniques, 
-Machine Learning Applications in Energy, 
+AI for Energy and Sustainability
 
 
 ## Education
@@ -37,7 +37,7 @@ Machine Learning Applications in Energy,
 
 You can find my CV here: [Qi's Curriculum Vitae](assets/QiZhang_CV.pdf).
 
-[Email](mailto:qizhangedu@gmail.com) / [Github](https://github.com/archiezq) / [Wechat](images/wechat.jpg) /
+[Email](mailto:qi.zhang4@student.uva.nl) / [Github](https://github.com/archiezq) / [Wechat](images/wechat.jpg) /
 
 **Experience**
 

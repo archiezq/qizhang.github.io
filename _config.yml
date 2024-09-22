@@ -21,14 +21,14 @@ repository               : "archiezq/archiezq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "img_qi.png"
+  avatar           : "img_qi2.png"s
   name             : "Qi Zhang(张琦)"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Amsterdam"
   employer         : "University of Amsterdam"
   uri              : # URL
-  email            : "qizhangedu@gmail.com" 
+  email            : "qi.zhang4@student.uva.nl" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

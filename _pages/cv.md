@@ -24,7 +24,7 @@ redirect_from:
     * S 奖，2021 数学建模美赛 2021
     * 团体二等奖、个人二等奖，第六届北京市大学生工程设计表达竞赛 2021 -->
 
-* **计算科学课程研究内容**，阿姆斯特丹大学 2023.12-2024.03
+<!-- * **计算科学课程研究内容**，阿姆斯特丹大学 2023.12-2024.03
 
     * 使用蒙特卡洛方法，以及方差减小技术 (对偶变量法、限制变量法、分层采样) 解决排队论 DES 模拟和旅行推销员问题。此外，还使用维纳过程、伊藤引理对偏微分方程进行处理，并通过有限差分法将偏微分方程离散化以实现离散事件问题的建模和分析。
     * 使用 ANOVA 和 ANCOVA 方法设计分析数据，使用线性回归模型分析数据。研究了对实验数据进行诊断、清理的方法，通过机器学习方法如随机森林、循环神经网络实现对数据的挖掘处理。
@@ -40,5 +40,16 @@ redirect_from:
 ======
 * **编程**: Python, C, MATLAB, R
 * **其他软件**: SolidWorks, AutoCad, Comsol, Tableau, Visio, LaTex
-* **英语水平**: 六级 566，雅思 6.5
+* **英语水平**: 六级 566，雅思 6.5 -->
 
+
+* **Opinion Polarization: Conformity and Cross-group Contact**, University Van Amsterdam, 05.2024 -- 07.2024
+  * Developed an agent-based model (**ABM**) using Python to analyze the effects of cross-group contact on social polarization. The model features agents interacting within a network and navigating a grid based on individual opinions, conformity levels, and opinion diversity. Polarization is measured by changes in Alteiri entropy. Additionally, conducted global and local sensitivity analyses using the One-Factor-At-a-Time (OFAT) method to determine the impact of various parameters on the model's outcomes.
+%
+
+* **Computational Finance and Quantitative Risk Management**, University Van Amsterdam, 01.2024 -- 05.2024
+        
+  * Employed advanced computational techniques such as the Black-Scholes equation, PDE finite differences, and the COS method for precise option pricing. Enhanced predictive capabilities with machine learning for dynamic option pricing and risk assessment. Developed and validated risk models using Value at Risk (VaR) and Expected Return (ER). Utilized copula simulations, PCA, and FA for in-depth analysis of asset dependencies and financial data insights. Applied \textbf{machine learning} to forecast stock value changes and conduct model validations, thereby enriching strategic financial decision-making.
+  
+* **Thermal Management in Lithium-Ion Batteries Using Immersed Phase Change Materials**, North China Electric Power University, 12.2022 -- 06.2023
+  * Developed a thermal control model(**COMSOL**) for lithium-ion batteries utilizing phase change materials, effectively reducing battery temperatures from 46.4°C to 34.6°C under operational conditions. This model employs both sensible and latent heat absorption, with a volume-expansion-driven thermal switch to optimize thermal conductivity and improve battery performance.
