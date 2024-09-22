@@ -21,19 +21,19 @@ AI for Energy and Sustainability
 **University of Amsterdam**, Amsterdam  
 *September 2023 - June 2025 (Expected)*
 
-- Focusing on advanced computational techniques and their applications in scientific domains
-- Key courses: Scientific Computing, Machine Learning, Complex System, Agent Based Modelling, Numerical Algorithm.
+- Focusing on computational methods, including simulation and modeling, and their applications in scientific domains.
+- **Key courses**: Scientific Computing, Machine Learning, Complex System, Agent Based Modelling, Numerical Algorithm.
 <!-- - Thesis topic: [Your thesis topic or area of focus, if decided] -->
 
 ### BSc in Energy and Power Engineering (Sustainable Energy)
 **North China Electric Power University**, Beijing  
 *September 2019 - June 2023*
 
-- Specialized in energy storage technologies and their integration into energy systems
+- Specialized in sustainable energy technologies, including battery techniques, energy systems, and renewable energy.
 
-- Thesis: Thermal Management in Lithium-Ion Batteries Using Immersed Phase Change Materials.
+- **Thesis**: Thermal Management in Lithium-Ion Batteries Using Immersed Phase Change Materials.
   
-- Key Course: Integrated Energy Systems, Fluid Mechanics, Power System and Energy Storage
+- Key Course: Energy Systems, Fluid Mechanics, Power System and Energy Storage
 
 You can find my CV here: [Qi's Curriculum Vitae](assets/QiZhang_CV.pdf).
 
