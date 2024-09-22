@@ -18,6 +18,8 @@ To be specific, I'm currently exploring topics like:
 - Energy System Optimization, 
 - AI for Energy and Sustainability
 
+You can find my CV here: [Qi's Resume](assets/QiZhang_CV.pdf).
+
 
 ## Education
 
@@ -38,11 +40,9 @@ North China Electric Power University, *September 2019 - June 2023*
   
 <!-- - Key Course: Energy Systems, Fluid Mechanics, Power System and Energy Storage -->
 
-You can find my CV here: [Qi's Curriculum Vitae](assets/QiZhang_CV.pdf).
 
 [Email](mailto:qi.zhang4@student.uva.nl) / [Github](https://github.com/archiezq) / [Wechat](images/wechat.jpg) /
 
-**Experience**
 
 
 ---
