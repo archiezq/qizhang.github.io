@@ -18,7 +18,7 @@ To be specific, I'm currently exploring topics like:
 - Energy System Optimization, 
 - AI for Energy and Sustainability
 
-You can find my CV here: [Qi's Resume](assets/QiZhang_CV.pdf).
+You can find my CV here: [Qi's Resume](assets/Qi_resume.pdf).
 
 
 ## Education
