@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a second-year graduate student in [Computational Science](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html), [University of Amsterdam](https://www.uva.nl/). 
 
-Previously, I worked as a Research Assistant at [Chinese Academy of Sciences](https://www.cas.cn/) under the supervision of Associate Prof. Wei Zheng. I received my B.Eng. degree in Energy Science from North China Electric Power University, where I worked with Prof. Xing Ju on thermal management of Li-ion battery.
+Previously, I worked as a Research Assistant at [Chinese Academy of Sciences](https://www.cas.cn/) under the supervision of Associate Prof. Wei Zheng from June to August 2025. I received my B.Eng. degree in Energy Science from North China Electric Power University, where I worked with Prof. Xing Ju on thermal management of Li-ion battery.
 
 I'm generally interested in leveraging computational methods to address critical challenges in sustainable energy. 
 <!-- I completed my undergraduate degree in Energy and Power Engineering (Energy Storage Track), at [North China Electric Power University](https://www.ncepu.edu.cn/). -->
@@ -18,7 +18,7 @@ To be specific, I'm currently exploring topics like:
 - Energy System Optimization, 
 - AI for Energy and Sustainability
 
-You can find my CV here: [Qi's Resume](assets/Qi_resume.pdf).
+You can find my CV and Transcript here: [Qi's Resume](assets/CV_v3.pdf) and [Transcript](assets/Transcript.pdf).
 
 
 ## Education
@@ -27,15 +27,14 @@ You can find my CV here: [Qi's Resume](assets/Qi_resume.pdf).
 University of Amsterdam, *September 2023 - June 2025 (Expected)*
 
 - Focusing on computational methods, including simulation and modeling, and their applications in scientific domains.
-- **Key courses**: Scientific Computing, Machine Learning, Complex System, Agent Based Modelling, Numerical Algorithm.
+- **Key courses**: Evolitionary Computing, Machine Learning, Complex System, Agent Based Modelling, Numerical Algorithm, Computational Finance, Quantitative Financial and Risk Management.
 <!-- - Thesis topic: [Your thesis topic or area of focus, if decided] -->
 
 
 ### BSc in Energy and Power Engineering (Sustainable Energy)
 North China Electric Power University, *September 2019 - June 2023*
 
-- Specialized in sustainable energy technologies, including battery techniques, energy systems, and renewable energy.
-
+- Specialized in sustainable energy technologies, including battery techniques, energy systems, and Fluid Mechanics, Heat Transfer.
 - **Thesis**: Thermal Management in Lithium-Ion Batteries Using Immersed Phase Change Materials.
   
 <!-- - Key Course: Energy Systems, Fluid Mechanics, Power System and Energy Storage -->
