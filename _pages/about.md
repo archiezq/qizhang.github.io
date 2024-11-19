@@ -6,7 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year graduate student in [Computational Science](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html), [University of Amsterdam](https://www.uva.nl/). 
+I am a second-year graduate student in [Computational Science](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html), [University of Amsterdam](https://www.uva.nl/).
+
+Currently, I am working on my master's thesis *Systems Dynamics Models of Blood Pressure Regulation*, under the guidance of Prof. A.G.Hoekstra and Prof. Krzhizhanovskaya. This study aims to carry out an in-depth exploration of these regulatory feedback mechanisms. By incorporating clinical data from the Amsterdam University Medical Centers, we intend to con-
+struct a more complex systemic blood flow model. Lastly, the goal is to develop a predictive tool that can accurately evaluate the risk of orthostatic hypertension in older adults.
 
 Previously, I worked as a Research Assistant at [Chinese Academy of Sciences](https://www.cas.cn/) under the supervision of Associate Prof. Wei Zheng from June to August 2025. I received my B.Eng. degree in Energy Science from North China Electric Power University, where I worked with Prof. Xing Ju on thermal management of Li-ion battery.
 
