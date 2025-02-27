@@ -42,6 +42,19 @@ redirect_from:
 * **其他软件**: SolidWorks, AutoCad, Comsol, Tableau, Visio, LaTex
 * **英语水平**: 六级 566，雅思 6.5 -->
 
+## Current
+* **Systems Dynamics Models of Blood Pressure Regulation**,
+University Van Amsterdam, 11.2024 -- 07.2025
+
+  * Orthostatic hypotension is a form of low blood pressure that happens when standing after sitting or lying down. This research aims to develop an integrated computational model combining baroreflex and cerebral autoregulation mechanisms by merging the 21-compartment cardiovascular model with a cerebral autoregulation framework. The model will simulate both systemic blood pressure control and cerebral blood flow regulation, incorporating O2 dynamics. Then, we valid this model through the clinical data from the Amsterdam University Medical Centers. Later, we aim to develop a diagnose tool that can evaluate the fall risk in older adults.
+
+
+
+
+
+
+
+## Previous
 
 * **Opinion Polarization: Conformity and Cross-group Contact**, University Van Amsterdam, 05.2024 -- 07.2024
   * Developed an agent-based model (**ABM**) using Python to analyze the effects of cross-group contact on social polarization. The model features agents interacting within a network and navigating a grid based on individual opinions, conformity levels, and opinion diversity. Polarization is measured by changes in Alteiri entropy. Additionally, conducted global and local sensitivity analyses using the One-Factor-At-a-Time (OFAT) method to determine the impact of various parameters on the model's outcomes.
