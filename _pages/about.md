@@ -10,15 +10,17 @@ I am a second-year graduate student in [Computational Science](https://www.uva.n
 
 Currently, I am working on my master's thesis *Systems Dynamics Models of Blood Pressure Regulation*, under the guidance of Prof. A.G.Hoekstra and Prof. Krzhizhanovskaya. This study aims to explore how the baroreflex and cerebral autoregulation mechanisms effect the pressure. We are gonna to develop a computational model to simulate the system, and valid this model by incorporating clinical data from the Amsterdam University Medical Centers. Later, we aim to develop a diagnose tool that can evaluate the fall risk in older adults.
 
+
 Previously, I worked as a Research Assistant at [Chinese Academy of Sciences](https://www.cas.cn/) under the supervision of Associate Prof. Wei Zheng from June to August 2025. I received my B.Eng. degree in Energy Science from North China Electric Power University, where I worked with Prof. Xing Ju on thermal management of Li-ion battery.
 
-I'm generally interested in leveraging computational methods to address critical challenges in sustainable energy. 
+I'm generally interested in leveraging computational methods to address challenges in biomedicine and sustainable energy. 
 <!-- I completed my undergraduate degree in Energy and Power Engineering (Energy Storage Track), at [North China Electric Power University](https://www.ncepu.edu.cn/). -->
 
 To be specific, I'm currently exploring topics like:
-- Computational Energy, 
-- Energy System Optimization, 
-- AI for Energy and Sustainability
+- Computational Science,
+- Computational Biomedicine  
+- AI for Medicine
+- AI for Energy
 
 You can find my CV and Transcript here: [Qi's Resume](assets/CV_v3.pdf) and [Transcript](assets/Transcript.pdf).
 
