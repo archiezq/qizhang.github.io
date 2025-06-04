@@ -43,12 +43,20 @@ redirect_from:
 * **英语水平**: 六级 566，雅思 6.5 -->
 
 ## Current
-* **Systems Dynamics Models of Blood Pressure Regulation**,
+* **System Dynamics Models of Blood Pressure Regulation**,
 University Van Amsterdam, 11.2024 -- 07.2025
 
-  * Orthostatic hypotension is a form of low blood pressure that happens when standing after sitting or lying down. This research aims to develop an integrated computational model combining baroreflex and cerebral autoregulation mechanisms by merging the 21-compartment cardiovascular model with a cerebral autoregulation framework. The model will simulate both systemic blood pressure control and cerebral blood flow regulation, incorporating O2 dynamics. Then, we valid this model through the clinical data from the Amsterdam University Medical Centers. Later, we aim to develop a diagnose tool that can evaluate the fall risk in older adults.
+  * Orthostatic hypotension is a form of low blood pressure that happens when standing after sitting or lying down. This research aims to develop a lumped computational model combining baroreflex and cerebral autoregulation mechanisms, also with the oxygen dynamics in our brain. We carried a supine-to-stand test to observe the changes of mean arterial pressure, heart rate, and oxygen concentration. After that, we used evolutionary algorithms to optimize the input parameter, and make the result more physiologically reasonable. This model will be validated by comparing the simulated results with the clinical data collected at the Amsterdam Medical Center(AMC) Geriatrics Department 
 
+<div style="text-align: center;">
+    <img src="../images/BP.png" style="width: 80%;">
+    <p class="image-caption1">Comparison of Blood Pressure and Heart Rate: Model vs Clinical Data</p>
+</div>
 
+<div style="text-align: center;">
+    <img src="../images/SaO2results.png" style="width: 40%;">
+    <p class="image-caption2">Comparison of Oxygen Saturation Model vs Clinical Data</p>
+</div>
 
 
 
@@ -58,11 +66,21 @@ University Van Amsterdam, 11.2024 -- 07.2025
 
 * **Opinion Polarization: Conformity and Cross-group Contact**, University Van Amsterdam, 05.2024 -- 07.2024
   * Developed an agent-based model (**ABM**) using Python to analyze the effects of cross-group contact on social polarization. The model features agents interacting within a network and navigating a grid based on individual opinions, conformity levels, and opinion diversity. Polarization is measured by changes in Alteiri entropy. Additionally, conducted global and local sensitivity analyses using the One-Factor-At-a-Time (OFAT) method to determine the impact of various parameters on the model's outcomes.
+<div style="text-align: center;">
+    <img src="../images/without0.2_50.png" style="width: 50%;">
+    <p class="image-caption3">Agent-based modelling results of Opinion Polarization</p>
+</div>
 %
 
 * **Computational Finance and Quantitative Risk Management**, University Van Amsterdam, 01.2024 -- 05.2024
         
   * Employed advanced computational techniques such as the Black-Scholes equation, PDE, Finite Differences Method, and the COS method for precise option pricing. Enhanced predictive capabilities with machine learning for dynamic option pricing and risk assessment. Developed and validated risk models using Value at Risk (VaR) and Expected Return (ER). Utilized Copula simulations, PCA, and FA for in-depth analysis of asset dependencies and financial data insights. Applied **machine learning** to forecast stock value changes and conduct model validations, thereby enriching strategic financial decision-making.
+<div style="text-align: center;">
+    <img src="../images/Copula Fits (AMZN, GOOGL)(Correlation=0.5).png" style="width: 30%;">
+    <p class="image-caption4">Clayton, Gumbel, Frank copulas to AMZN and GOOGL joint distribution.</p>
+
+</div>
+
   
 * **Thermal Management in Lithium-Ion Batteries Using Immersed Phase Change Materials**, North China Electric Power University, 12.2022 -- 06.2023
   * Developed a thermal control model(**COMSOL**) for lithium-ion batteries utilizing phase change materials, effectively reducing battery temperatures from 46.4°C to 34.6°C under operational conditions. This model employs both sensible and latent heat absorption, with a volume-expansion-driven thermal switch to optimize thermal conductivity and improve battery performance.

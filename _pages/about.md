@@ -22,7 +22,7 @@ To be specific, I'm currently exploring topics like:
 - AI for Medicine
 - AI for Energy
 
-You can find my CV and Transcript here: [Qi's Resume](assets/CV_v3.pdf) and [Transcript](assets/Transcript.pdf).
+You can find my CV and Transcript here: [Qi's Resume](assets/CV_Agent_Qi.pdf) and [Transcript](assets/Transcript.pdf).
 
 
 ## Education
@@ -32,7 +32,7 @@ University of Amsterdam, *September 2023 - June 2025 (Expected)*
 
 - Focusing on computational methods, including simulation and modeling, and their applications in scientific domains.
 - **Key courses**: Evolitionary Computing, Machine Learning, Complex System, Agent Based Modelling, Numerical Algorithm, Computational Finance, Quantitative Financial and Risk Management.
-<!-- - Thesis topic: [Your thesis topic or area of focus, if decided] -->
+- **Thesis topic**: System Dynamics Models of Blood Pressure Regulation.
 
 
 ### BSc in Energy and Power Engineering (Sustainable Energy)
