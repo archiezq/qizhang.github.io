@@ -46,16 +46,16 @@ redirect_from:
 * **System Dynamics Models of Blood Pressure Regulation**,
 University Van Amsterdam, 11.2024 -- 07.2025
 
-  * Orthostatic hypotension is a form of low blood pressure that happens when standing after sitting or lying down. This research aims to develop a lumped computational model combining baroreflex and cerebral autoregulation mechanisms, also with the oxygen dynamics in our brain. We carried a supine-to-stand test to observe the changes of mean arterial pressure, heart rate, and oxygen concentration. After that, we used evolutionary algorithms to optimize the input parameter, and make the result more physiologically reasonable. This model will be validated by comparing the simulated results with the clinical data collected at the Amsterdam Medical Center(AMC) Geriatrics Department 
+  * Orthostatic hypotension is a form of low blood pressure that happens when standing after sitting or lying down. This research aims to develop a lumped computational model combining baroreflex and cerebral autoregulation mechanisms, also with the oxygen dynamics in our brain. We carried a supine-to-stand test to observe the changes of blood pressure, heart rate, and oxygen saturation. After that, we used evolutionary algorithms to optimize the input parameter, and make the result output fit to individual's measurements. This model is validated by comparing the model results with the NIRS data collected at the Amsterdam Medical Center(AMC) Geriatrics Department 
 
 <div style="text-align: center;">
     <img src="../images/BP.png" style="width: 80%;">
-    <p class="image-caption1">Comparison of Blood Pressure and Heart Rate: Model vs Clinical Data</p>
+    <p class="image-caption1">Comparison of Blood Pressure and Heart Rate: Model vs Finapres</p>
 </div>
 
 <div style="text-align: center;">
-    <img src="../images/SaO2results.png" style="width: 40%;">
-    <p class="image-caption2">Comparison of Oxygen Saturation Model vs Clinical Data</p>
+    <img src="../images/results2.png" style="width: 40%;">
+    <p class="image-caption2">Comparison of Oxygen Saturation Model vs NIRS</p>
 </div>
 
 
