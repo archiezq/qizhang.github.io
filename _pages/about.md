@@ -8,8 +8,7 @@ redirect_from:
 ---
 I am a second-year graduate student in [Computational Science](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html), [University of Amsterdam](https://www.uva.nl/).
 
-Currently, I am working on my master's thesis *Systems Dynamics Models of Blood Pressure Regulation*, under the guidance of Prof. A.G.Hoekstra and Prof. Krzhizhanovskaya. This study aims to explore how the baroreflex and cerebral autoregulation mechanisms effect the pressure. We are gonna to develop a computational model to simulate the system, and valid this model by incorporating clinical data from the Amsterdam University Medical Centers. Later, we aim to develop a diagnose tool that can evaluate the fall risk in older adults.
-
+Currently, I am working on my master's thesis *Systems Dynamics Models of Blood Pressure Regulation*, under the guidance of Prof. A.G.Hoekstra and Prof. Krzhizhanovskaya. This study aims to explore how the baroreflex and cerebral autoregulation mechanisms effect the pressure. We developed a lumped model to simulate the system, and applied evolutionary algorithms to optimise the input parameters. Then, we valid this model by incorporating clinical data from the Amsterdam University Medical Centers. 
 
 Previously, I worked as a Research Assistant at [Chinese Academy of Sciences](https://www.cas.cn/) under the supervision of Associate Prof. Wei Zheng from June to August 2025. I received my B.Eng. degree in Energy Science from North China Electric Power University, where I worked with Prof. Xing Ju on thermal management of Li-ion battery.
 
@@ -22,16 +21,16 @@ To be specific, I'm currently exploring topics like:
 - AI for Medicine
 - AI for Energy
 
-You can find my CV and Transcript here: [Qi's Resume](assets/CV_Agent_Qi.pdf) and [Transcript](assets/Transcript.pdf).
+You can find my CV and Transcript here: [Qi's Resume](assets/Qi_latest.pdf) and [Transcript](assets/Transcript.pdf).
 
 
 ## Education
 
 ### MSc in Computational Science
-University of Amsterdam, *September 2023 - June 2025 (Expected)*
+University of Amsterdam, *September 2023 - July 2025 (Expected)*
 
 - Focusing on computational methods, including simulation and modeling, and their applications in scientific domains.
-- **Key courses**: Evolitionary Computing, Machine Learning, Complex System, Agent Based Modelling, Numerical Algorithm, Computational Finance, Quantitative Financial and Risk Management.
+- **Key courses**: Evolitionary Algorithms, Machine Learning, Complex System, Agent Based Modelling, Numerical Algorithm, Computational Finance, Quantitative Financial and Risk Management, Data Mining Techniques.
 - **Thesis topic**: System Dynamics Models of Blood Pressure Regulation.
 
 
@@ -44,7 +43,7 @@ North China Electric Power University, *September 2019 - June 2023*
 <!-- - Key Course: Energy Systems, Fluid Mechanics, Power System and Energy Storage -->
 
 
-[Email](mailto:qi.zhang4@student.uva.nl) / [Github](https://github.com/archiezq) / [Wechat](images/wechat.jpg) /
+[Email](mailto:qizhangedu@gmail.com) / [Github](https://github.com/archiezq) / [Wechat](images/wechat.jpg) /
 
 
 
