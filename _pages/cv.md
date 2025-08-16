@@ -42,28 +42,32 @@ redirect_from:
 * **其他软件**: SolidWorks, AutoCad, Comsol, Tableau, Visio, LaTex
 * **英语水平**: 六级 566，雅思 6.5 -->
 
-## Current
+## Master Thesis
 * **System Dynamics Models of Blood Pressure Regulation**,
 University Van Amsterdam, 11.2024 -- 07.2025
 
-  * Orthostatic hypotension is a form of low blood pressure that happens when standing after sitting or lying down. This research aims to develop a lumped computational model combining baroreflex and cerebral autoregulation mechanisms, also with the oxygen dynamics in our brain. We carried a supine-to-stand test to observe the changes of blood pressure, heart rate, and oxygen saturation. After that, we used evolutionary algorithms to optimize the input parameter, and make the result output fit to individual's measurements. This model is validated by comparing the model results with the NIRS data collected at the Amsterdam Medical Center(AMC) Geriatrics Department 
+  * Orthostatic hypotension is a form of low blood pressure that happens when standing after sitting or lying down. The sudden blood pressure decrease can cause dizziness and increase the risk of falls, especially in the elderly. Although there is considerable research on the mechanism of pressure regulation, most of it focusses on baroreflex or cerebral autoregulation rather than combining both. This research aims to develop an integrated 0D lumped model that combines baroreflex and cerebral autoregulation mechanisms, as well as oxygen dynamics in the brain. We simulate a supine-to-stand test to predict changes in blood pressure, heart rate, and oxygen saturation. The model is validated by comparing the simulated results with the clinical data collected at the Department of Geriatrics of the Amsterdam Medical Centre (AMC). We use evolutionary algorithms to optimise model parameters to fit the clinical measurements. With this model, we can better understand the regulation of blood pressure and cerebral oxygen saturation.
 
 <div style="text-align: center;">
-    <img src="../images/BP.png" style="width: 80%;">
-    <p class="image-caption1">Comparison of Blood Pressure and Heart Rate: Model vs Finapres</p>
+    <img src="../images/pressure_plot.png" style="width: 40%;">
+    <p class="image-caption1">Comparison of blood pressure: Model vs Finapres</p>
 </div>
 
 <div style="text-align: center;">
-    <img src="../images/results2.png" style="width: 40%;">
-    <p class="image-caption2">Comparison of Oxygen Saturation Model vs NIRS</p>
+    <img src="../images/heart_rate_plot.png" style="width: 40%;">
+    <p class="image-caption1">Comparison of heart rate: Model vs Finapres</p>
+</div>
+
+<div style="text-align: center;">
+    <img src="../images/phi016_m2.png" style="width: 40%;">
+    <p class="image-caption2">Comparison of oxygen saturation: Model vs NIRS</p>
 </div>
 
 
 
 
 
-## Previous
-
+## Others 
 * **Opinion Polarization: Conformity and Cross-group Contact**, University Van Amsterdam, 05.2024 -- 07.2024
   * Developed an agent-based model (**ABM**) using Python to analyze the effects of cross-group contact on social polarization. The model features agents interacting within a network and navigating a grid based on individual opinions, conformity levels, and opinion diversity. Polarization is measured by changes in Alteiri entropy. Additionally, conducted global and local sensitivity analyses using the One-Factor-At-a-Time (OFAT) method to determine the impact of various parameters on the model's outcomes.
 <div style="text-align: center;">
@@ -80,6 +84,8 @@ University Van Amsterdam, 11.2024 -- 07.2025
     <p class="image-caption4">Clayton, Gumbel, Frank copulas to AMZN and GOOGL joint distribution.</p>
 
 </div>
+
+
 
   
 * **Thermal Management in Lithium-Ion Batteries Using Immersed Phase Change Materials**, North China Electric Power University, 12.2022 -- 06.2023

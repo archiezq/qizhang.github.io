@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year graduate student in [Computational Science](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html), [University of Amsterdam](https://www.uva.nl/).
+I am a graduate student in [Computational Science](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html), [University of Amsterdam](https://www.uva.nl/).
 
-Currently, I am working on my master's thesis *Systems Dynamics Models of Blood Pressure Regulation*, under the guidance of Prof. A.G.Hoekstra and Prof. Krzhizhanovskaya. This study aims to explore how the baroreflex and cerebral autoregulation mechanisms effect the pressure. We developed a lumped model to simulate the system, and applied evolutionary algorithms to optimise the input parameters. Then, we valid this model by incorporating clinical data from the Amsterdam University Medical Centers. 
+Currently, I just completed my Master’s degree at August. My master thsis topic is *Systems Dynamics Models of Blood Pressure Regulation*, under the guidance of [Prof. A.G.Hoekstra](https://scholar.google.com/citations?user=CiO_awsAAAAJ&hl=zh-CN&oi=ao) and Dr. [Krzhizhanovskaya](https://scholar.google.com/citations?user=4lHZPP8AAAAJ&hl=en), and my daily supervisor is Joeri van de Sande. This study aims to explore how the baroreflex and cerebral autoregulation mechanisms effect the pressure, and how the oxygen saturation changes during orthostatic hypotension. We developed a lumped model to simulate the systemic hemodynamics, and applied evolutionary algorithms to optimise model parameters. Then, we valid this model by comparing our simulated outputs with clinical data from the Amsterdam University Medical Centers. 
 
 Previously, I worked as a Research Assistant at [Chinese Academy of Sciences](https://www.cas.cn/) under the supervision of Associate Prof. Wei Zheng from June to August 2025. I received my B.Eng. degree in Energy Science from North China Electric Power University, where I worked with Prof. Xing Ju on thermal management of Li-ion battery.
 
@@ -17,17 +17,16 @@ I'm generally interested in leveraging computational methods to address challeng
 
 To be specific, I'm currently exploring topics like:
 - Computational Science,
+- AI for Energy,
 - Computational Biomedicine  
-- AI for Medicine
-- AI for Energy
 
-You can find my CV and Transcript here: [Qi's Resume](assets/Qi_latest.pdf) and [Transcript](assets/Transcript.pdf).
+You can find my CV and Transcript here: [Qi's Resume](assets/CV_Qi.pdf) and [Transcript](assets/Transcript-MSc.pdf).
 
 
 ## Education
 
 ### MSc in Computational Science
-University of Amsterdam, *September 2023 - July 2025 (Expected)*
+University of Amsterdam, *September 2023 - August 2025*
 
 - Focusing on computational methods, including simulation and modeling, and their applications in scientific domains.
 - **Key courses**: Evolitionary Algorithms, Machine Learning, Complex System, Agent Based Modelling, Numerical Algorithm, Computational Finance, Quantitative Financial and Risk Management, Data Mining Techniques.
