@@ -68,6 +68,11 @@ University Van Amsterdam, 11.2024 -- 07.2025
 
 
 ## Others 
+* **LLM-based Text Classification and AI Text Detection**, Kaggle Competition Project, 08.2024 -- 01.2025
+      - Built a **DeBERTaV3**-based shared-weight classifier to model LLM response quality from Prompt + Response A/B pairs, evaluated by Log Loss.
+      - Designed an efficient **KerasNLP + TensorFlow pipeline** with dynamic tokenization and **LoRA** fine-tuning; monitored training via Weights & Biases.
+      - Improved stability and generalization through **5 fold cross-validation** and ensemble methods, ranking in the top 10% on Kaggle.
+
 * **Opinion Polarization: Conformity and Cross-group Contact**, University Van Amsterdam, 05.2024 -- 07.2024
   * Developed an agent-based model (**ABM**) using Python to analyze the effects of cross-group contact on social polarization. The model features agents interacting within a network and navigating a grid based on individual opinions, conformity levels, and opinion diversity. Polarization is measured by changes in Alteiri entropy. Additionally, conducted global and local sensitivity analyses using the One-Factor-At-a-Time (OFAT) method to determine the impact of various parameters on the model's outcomes.
 <div style="text-align: center;">
