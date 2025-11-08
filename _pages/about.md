@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I completed my MSc in [Computational Science](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html) from [University of Amsterdam](https://www.uva.nl/) in August. 
+I completed my MSc in [Computational Science](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html) from [University of Amsterdam](https://www.uva.nl/) in August, 2025. 
 
-My master’s thesis, Systems Dynamics Models of Blood Pressure Regulation, was carried out under the guidance of [Prof. A.G.Hoekstra](https://scholar.google.com/citations?user=CiO_awsAAAAJ&hl=zh-CN&oi=ao) and Dr. [Krzhizhanovskaya](https://scholar.google.com/citations?user=4lHZPP8AAAAJ&hl=en), and my daily supervisor is [Joeri van de Sande](https://nl.linkedin.com/in/joeri-van-de-sande). This study aims to explore how the baroreflex and cerebral autoregulation mechanisms effect the pressure, and how the oxygen saturation changes during orthostatic hypotension. We developed a 0D lumped model to simulate the systemic hemodynamics, and applied evolutionary algorithms to optimise model parameters. Then, we valid this model by comparing our simulated outputs with clinical data from the Amsterdam University Medical Centers. 
+My master’s thesis, Systems Dynamics Models of Blood Pressure Regulation, was carried out under the guidance of [Prof. A.G.Hoekstra](https://scholar.google.com/citations?user=CiO_awsAAAAJ&hl=zh-CN&oi=ao) and [Dr. Krzhizhanovskaya](https://scholar.google.com/citations?user=4lHZPP8AAAAJ&hl=en), and my daily supervisor is [Joeri van de Sande](https://nl.linkedin.com/in/joeri-van-de-sande). This study aims to explore how the baroreflex and cerebral autoregulation mechanisms effect the pressure, and how the oxygen saturation changes during orthostatic hypotension. We developed a 0D lumped model to simulate the systemic hemodynamics, and applied evolutionary algorithms to optimise model parameters. Then, we valid this model by comparing our simulated outputs with clinical data from the Amsterdam University Medical Centers. 
 
-Previously, I worked as a Research Assistant at [Chinese Academy of Sciences](https://www.cas.cn/) under the supervision of Associate Prof. Wei Zheng from June to August 2025. I received my B.Eng. degree in Energy Science from North China Electric Power University, where I worked with Prof. Xing Ju on thermal management of Li-ion battery.
+Previously, I worked as a Research Assistant at [Chinese Academy of Sciences](https://www.cas.cn/) under the supervision of Prof. Wei Zheng from June to August 2025. I received my B.Eng. degree in Energy Science from North China Electric Power University, where I worked with Prof. Xing Ju on thermal management of Li-ion battery.
 
 I'm generally interested in leveraging computational methods to address challenges in biomedicine and sustainable energy. 
 <!-- I completed my undergraduate degree in Energy and Power Engineering (Energy Storage Track), at [North China Electric Power University](https://www.ncepu.edu.cn/). -->
@@ -20,7 +20,7 @@ To be specific, I'm currently exploring topics like:
 - AI for Energy,
 - Computational Biomedicine  
 
-You can find my CV here: [Qi's Resume](assets/Resume_LLM.pdf).
+You can find my CV and Master's thesis here: [Qi's Resume](assets/Resume_LLM.pdf) and [Thesis](assets\Master_Thesis___Qi.pdf).
 
 
 ## Education
